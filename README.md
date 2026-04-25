@@ -1,2 +1,2 @@
 # myfinance-web-dotnet
-Project developed as part of the Postgraduate Program in Software Engineering – PUC Minas.
+Sistema Financeiro Web Pessoal - Projeto desenvolvido durante a pós-graduação em Engenharia de Software – PUC Minas. 
